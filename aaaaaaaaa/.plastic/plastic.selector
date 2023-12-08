@@ -1,0 +1,4 @@
+repository "aaaaaaaaa@FURSOY@cloud"
+  path "/"
+    br "/main"
+    co "/main"
